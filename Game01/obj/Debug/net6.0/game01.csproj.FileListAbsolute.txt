@@ -1,0 +1,45 @@
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\bin\Debug\net6.0\game01.exe
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\bin\Debug\net6.0\game01.deps.json
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\bin\Debug\net6.0\game01.runtimeconfig.json
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\bin\Debug\net6.0\game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\bin\Debug\net6.0\ref\game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\bin\Debug\net6.0\game01.pdb
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\obj\Debug\net6.0\game01.csproj.AssemblyReference.cache
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\obj\Debug\net6.0\game01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\obj\Debug\net6.0\game01.AssemblyInfoInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\obj\Debug\net6.0\game01.AssemblyInfo.cs
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\obj\Debug\net6.0\game01.csproj.CoreCompileInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\obj\Debug\net6.0\game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\obj\Debug\net6.0\ref\game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\obj\Debug\net6.0\game01.pdb
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\obj\Debug\net6.0\game01.genruntimeconfig.cache
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\bin\Debug\net6.0\Game01.exe
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\bin\Debug\net6.0\Game01.deps.json
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\bin\Debug\net6.0\Game01.runtimeconfig.json
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\bin\Debug\net6.0\Game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\bin\Debug\net6.0\ref\Game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\bin\Debug\net6.0\Game01.pdb
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\obj\Debug\net6.0\Game01.csproj.AssemblyReference.cache
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\obj\Debug\net6.0\Game01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\obj\Debug\net6.0\Game01.AssemblyInfoInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\obj\Debug\net6.0\Game01.AssemblyInfo.cs
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\obj\Debug\net6.0\Game01.csproj.CoreCompileInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\obj\Debug\net6.0\Game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\obj\Debug\net6.0\ref\Game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\obj\Debug\net6.0\Game01.pdb
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game\game01\conceito_jogo_turno\obj\Debug\net6.0\Game01.genruntimeconfig.cache
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\bin\Debug\net6.0\Game01.exe
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\bin\Debug\net6.0\Game01.deps.json
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\bin\Debug\net6.0\Game01.runtimeconfig.json
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\bin\Debug\net6.0\Game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\bin\Debug\net6.0\ref\Game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\bin\Debug\net6.0\Game01.pdb
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\obj\Debug\net6.0\Game01.csproj.AssemblyReference.cache
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\obj\Debug\net6.0\Game01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\obj\Debug\net6.0\Game01.AssemblyInfoInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\obj\Debug\net6.0\Game01.AssemblyInfo.cs
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\obj\Debug\net6.0\Game01.csproj.CoreCompileInputs.cache
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\obj\Debug\net6.0\Game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\obj\Debug\net6.0\ref\Game01.dll
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\obj\Debug\net6.0\Game01.pdb
+C:\Users\gui-r\OneDrive\Documentos\Projetos\Game - Dio - Bootcamp\game01\obj\Debug\net6.0\Game01.genruntimeconfig.cache
